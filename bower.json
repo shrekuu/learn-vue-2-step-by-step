@@ -1,0 +1,20 @@
+{
+  "name": "learn-vue-2-step-by-step",
+  "authors": [
+    "温柔的码农 <shrekuu@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^2.1.10"
+  }
+}
